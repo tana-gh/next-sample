@@ -1,0 +1,54 @@
+[
+  {
+    "name" : "C",
+    "since": "1972"
+  },
+  {
+    "name" : "C++",
+    "since": "1985"
+  },
+  {
+    "name" : "C#",
+    "since": "2000"
+  },
+  {
+    "name" : "Java",
+    "since": "1995"
+  },
+  {
+    "name" : "Scala",
+    "since": "2003"
+  },
+  {
+    "name" : "Kotlin",
+    "since": "2011"
+  },
+  {
+    "name" : "Clojure",
+    "since": "2007"
+  },
+  {
+    "name" : "Lisp",
+    "since": "1958"
+  },
+  {
+    "name" : "JavaScript",
+    "since": "1995"
+  },
+  {
+    "name" : "TypeScript",
+    "since": "2012"
+  },
+  {
+    "name" : "Elm",
+    "since": "2012"
+  },
+  {
+    "name" : "Haskell",
+    "since": "1990"
+  },
+  {
+    "name" : "Rust",
+    "since": "2010"
+  }
+]
